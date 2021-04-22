@@ -1,0 +1,7 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: xivo-dev-ssh-pubkeys
+Source: https://github.com/wazo-platform/xivo-dev-ssh-pubkeys.git
+
+Files: *
+Copyright: 2020 The Wazo Authors
+License: GPL-3.0

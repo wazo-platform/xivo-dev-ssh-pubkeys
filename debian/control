@@ -1,6 +1,6 @@
 Source: wazo-dev-ssh-pubkeys
 Section: admin
-Priority: extra
+Priority: optional
 Maintainer: Wazo Maintainers <dev@wazo.community>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
